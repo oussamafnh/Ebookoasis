@@ -6,7 +6,7 @@
 <img src="https://res.cloudinary.com/dq7kjds8s/image/upload/v1699381527/ie43k5t395xbyieiggbb.jpg" alt="eBookOasis Logo" />
 <img src="https://res.cloudinary.com/dq7kjds8s/image/upload/v1699381536/oqcbrpenmy14rn5huz7h.jpg"/>
 <img src="https://res.cloudinary.com/dq7kjds8s/image/upload/v1699381541/s98otv6elnhmpot0jhel.jpg"/>
-<img src="https://res.cloudinary.com/dq7kjds8s/image/upload/v1699381914/jvdvy0rb9nvou37msum6.jpg" />
+<img src="https://res.cloudinary.com/dq7kjds8s/image/upload/v1699382103/b2iw6uxt7uzdug9j7qtw.jpg" />
 
 <p>Welcome to eBookOasis, an online platform for exploring and sharing eBooks.</p>
 
