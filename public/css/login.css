@@ -1,0 +1,82 @@
+
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+
+.login-title{
+  font-size: 24px;
+  font-weight: bold;
+  color: #025464;
+}
+
+
+.login-container .form {
+  background-color: #fff;
+  display: block;
+  padding: 1rem;
+  max-width: 350px;
+  border-radius: 0.5rem;
+}
+
+.login-container .form-title {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  font-weight: 600;
+  text-align: center;
+  color: #025464;
+}
+
+.login-container .input-container {
+  position: relative;
+}
+
+.login-container .input-container input,
+.login-container .form button {
+  outline: none;
+  border: 1px solid #e5e7eb;
+  margin: 8px 0;
+  margin-left: -25%;
+  width: 150%;
+}
+
+.login-container .input-container input {
+  background-color: #fff;
+  padding: 1rem;
+  padding-right: 3rem;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  /* width: auto;   */
+  border-radius: 0.5rem;
+  box-shadow: 0 1px 2px 0 #0254646c;
+}
+
+.login-container .submit {
+  display: block;
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+  background-color: #025464;
+  color: #ffffff;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  font-weight: 500;
+  width: 100%;
+  border-radius: 0.5rem;
+  text-transform: uppercase;
+}
+
+.login-container .signup-link {
+  color: #025464;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  text-align: center;
+}
+
+.login-container .signup-link a {
+  text-decoration: underline;
+}

@@ -1,0 +1,105 @@
+.profile {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.profile .profile-info {
+    margin-left: 20px;
+    flex: 1;
+    padding-right: 20px;
+}
+
+
+.profile .profile-info  .title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.profile .profile-name {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.profile .profile-email {
+    color: #666;
+    margin-bottom: 20px;
+}
+
+.profile .profile-actions {
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+}
+
+.profile .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.profile .btn-edit {
+    background-color: #ffc107;
+}
+
+.profile .btn-delete {
+    background-color: #dc3545;
+}
+
+.profile .liked-books {
+    margin-top: 20px;
+    flex: 2;
+    margin-left: 20px;
+}
+
+.profile .liked-books-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.profile .ebook-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+}
+
+.profile .ebook-item {
+    list-style: none;
+}
+
+.profile .ebook-cover {
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 10px;
+}
+
+.profile .ebook-details {
+    text-align: center;
+}
+
+.profile .ebook-title {
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+.profile .ebook-author {
+    color: #666;
+    margin-bottom: 10px;
+}
+
+.profile .btn-primary {
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    padding: 8px 16px;
+    border-radius: 5px;
+}
