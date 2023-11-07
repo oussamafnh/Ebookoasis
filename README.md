@@ -3,7 +3,8 @@
 <body>
 
 <h1>📚 eBookOasis</h1>
-![eBookOasis Logo](https://res.cloudinary.com/dq7kjds8s/image/upload/v1699380512/zvpsfavi5zoh7wt8sfds.png)
+<img src="https://res.cloudinary.com/dq7kjds8s/image/upload/v1699380512/zvpsfavi5zoh7wt8sfds.png" alt="eBookOasis Logo" />
+
 <p>Welcome to eBookOasis, an online platform for exploring and sharing eBooks.</p>
 
 <h2>📖 Description</h2>
