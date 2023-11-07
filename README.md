@@ -1,41 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      background-color: #f4f4f4;
-      margin: 0;
-      padding: 20px;
-    }
-    
-    h1, h2 {
-      color: #333;
-      margin-bottom: 10px;
-    }
-
-    h1 {
-      font-size: 36px;
-    }
-
-    h2 {
-      font-size: 24px;
-    }
-
-    p {
-      color: #666;
-    }
-
-    code {
-      background: #f4f4f4;
-      border: 1px solid #ddd;
-      border-radius: 4px;
-      padding: 5px;
-      font-family: monospace;
-    }
-  </style>
-</head>
 <body>
 
 <h1>📚 eBookOasis</h1>
