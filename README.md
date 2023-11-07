@@ -25,7 +25,6 @@ To run this application locally or on a server, follow these steps:
 4. Run migrations and seed the database.
 5. Start the Laravel server.
 
-```bash
 composer install
 cp .env.example .env
 # Update the .env file with your database configuration
